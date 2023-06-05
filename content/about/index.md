@@ -24,7 +24,7 @@ showComments: false
 
 <!-- See my [resume](/files/RL_resume_23.pdf) (03/2023) for a shorter summary. -->
 
-Welcome! My name is Matthew Rindner. One of the qoutes that I have lived by is "The more you learn, the more questions you will have".  This realy stuck to be as began to study all the complexitixes in the world that we all take fore granted each day. 
+Welcome! My name is Matthew Rindner. One of the quotes that I have lived by is "The more you learn, the more questions you will have".  This realy stuck to me as I began to study all the complexities in the world that we all take for granted each day. 
 
 <!-- ## Skills
 
@@ -57,8 +57,8 @@ Welcome! My name is Matthew Rindner. One of the qoutes that I have lived by is "
 
 
 ## Other Interests
-    - enthusiastic rocker climber 
+    - Enthusiastic rocker climber 
     - Big fan of Formula 1 racing!!
-    - Avid cook from time to time :shallow_pan_of_food:
+    - Avid cook from time-to-time :shallow_pan_of_food:
     - Animal videos all day :cat:
     
