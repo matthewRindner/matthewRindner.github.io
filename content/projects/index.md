@@ -23,15 +23,15 @@ This project will allow new ways to train climbers and help introduce new climbe
 
 
 <figure>
-    <img src="input.png" width=80%/ class="center">
+    <img src="passion_rock_pics/input.png" width=80%/ class="center">
     <figcaption align="center"> Input Image </figcaption>
 </figure>
 <figure>
-    <img src="canny_contours.png" width=80%/ class="center">
+    <img src="passion_rock_pics/canny_contours.png" width=80%/ class="center">
     <figcaption align="center"> Extracted Contours </figcaption>
 </figure>
  <figure>
-    <img src="boxes.png" width=80%/ class="center">
+    <img src="passion_rock_pics/boxes.png" width=80%/ class="center">
     <figcaption align="center"> Associating rocks with route </figcaption>
 </figure>
  
