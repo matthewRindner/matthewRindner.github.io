@@ -21,19 +21,6 @@ Pytorch will be used to train a model in 5 classifications of common boulder hol
 
 This project will allow new ways to train climbers and help introduce new climbers with strategy/technique as well as rationalize the ratings assigned to routes and increase rating accuracy based on the intrinsic difficulty of the holds per route.
 
-
-<figure>
-    <img src="passion_rock_pics/input.png" width=80%/ class="center">
-    <figcaption align="center"> Input Image </figcaption>
-</figure>
-<figure>
-    <img src="passion_rock_pics/canny_contours.png" width=80%/ class="center">
-    <figcaption align="center"> Extracted Contours </figcaption>
-</figure>
- <figure>
-    <img src="passion_rock_pics/boxes.png" width=80%/ class="center">
-    <figcaption align="center"> Associating rocks with route </figcaption>
-</figure>
  
 <div id="banner">
     <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
