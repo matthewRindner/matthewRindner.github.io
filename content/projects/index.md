@@ -35,7 +35,20 @@ This project will allow new ways to train climbers and help introduce new climbe
     <figcaption align="center"> Associating rocks with route </figcaption>
 </figure>
  
- 
+<div id="banner">
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="passion_rock_pics/input.png">
+        <figcaption align="center"> Input Image </figcaption>
+    </div>
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="passion_rock_pics/canny_contours.png">
+        <figcaption align="center"> Extracted Contours </figcaption>
+    </div>
+    <div class="" style="max-width: 20%;max-height: 20%;display: inline-block;">
+        <img src="passion_rock_pics/boxes.png">
+        <figcaption align="center"> Associating rocks with route </figcaption>
+    </div>
+</div>
 
 ------
 
